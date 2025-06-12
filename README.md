@@ -1,0 +1,2 @@
+# -Sales-Dashboard-and-Insights
+Sales Performance Dashboard using Power BI: Built an interactive sales dashboard using the Superstore dataset to visualize and analyze KPIs such as Sales, Profit, and Quantity across different regions, product categories, and time periods. Used DAX for calculated metrics and slicers for interactivity. Generated insights on regional performance, top products, and sales trends
